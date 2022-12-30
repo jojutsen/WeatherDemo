@@ -21,7 +21,7 @@ body{background-color: #f2f2f2;}
     width:100px;
     margin: auto;
 }
-.weather{width:200px;
+.weather{width:500px;
     margin:auto;
 text-align: center;}
 input{
@@ -99,7 +99,7 @@ text-align: center;}
 footer{
     height:40px;
     text-align: center;
-    background-color:#000000;
+    background-color:#f2f2f2;
     margin-top:150px;
     padding:10px;
     font-size: 14px;
