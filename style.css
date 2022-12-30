@@ -1,5 +1,5 @@
 body{background-color: #f2f2f2;}
-.container{padding:50px;}
+.container{padding:0px;}
 
 .container-flex{
     display:flex;
@@ -7,7 +7,7 @@ body{background-color: #f2f2f2;}
 }
 .title{
     color:#ffffff;
-    padding:10px;
+    padding:0px;
     }
 
 .weather-card{
